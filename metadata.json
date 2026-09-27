@@ -1,0 +1,6 @@
+{
+  "name": "NU CSE Notice Tracker & Alert System",
+  "description": "Real-time National University examination notice parser that categorizes and alerts for CSE (Computer Science & Engineering) department notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
